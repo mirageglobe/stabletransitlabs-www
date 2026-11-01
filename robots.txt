@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.stabletransitlabs.com/sitemap-index.xml
